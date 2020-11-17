@@ -47,7 +47,7 @@ This project was made using the follow technologies:
 
 # :rocket: Features
 
-- Get latest instagram imagens.
+- Extract images from my website.
   
 # :construction_worker: How to run
 ### Rename env file
